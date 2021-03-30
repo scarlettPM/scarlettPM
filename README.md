@@ -4,5 +4,7 @@
 **scarlettPM/scarlettPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 lang:spring,js,jquery,java,mariaDB,mysql,mybatis..etc
+github경험 多
+gitflow선호
 how to planning:x-mind
 -->
